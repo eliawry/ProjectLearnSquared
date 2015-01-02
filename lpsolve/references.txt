@@ -1,0 +1,15 @@
+Automated Test Assembly Using lp_Solve Version 5.5 in R
+Applied Psychological Measurement, Computer Software Review
+Qi Diao and Wim J. van der Linden
+2011
+http://www.utwente.nl/gw/omd/Medewerkers/artikelen/vdLinden/artikelen%20vanaf%20juni%202011/APM%202011,%20398-409.pdf
+
+
+de Ayala, R.J. (2009). The Theory and Practice of Item Response
+Theory, New York, NY: The Guilford Press. (6.12), p.144
+(Has information function for 3PL model)
+
+
+To install lpsolve for Python, it is basically mandatory to follow the exact
+instructions at https://racingtadpole.com/blog/install-lpsolve-for-python/ ,
+only adjusting for your version of OSX/Xcode in the include section.
